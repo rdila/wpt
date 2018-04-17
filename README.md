@@ -1,0 +1,2 @@
+# wpt
+Working theme test
